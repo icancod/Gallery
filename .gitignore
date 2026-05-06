@@ -1,0 +1,44 @@
+# Node
+node_modules/
+/.pnp/*
+.pnp.js
+
+# Next.js
+.next/
+out/
+/.vercel/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*.local
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+coverage/
+
+# Media & large files
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.heic
+
+# Misc
+.cache/
+.output/
+public/static/
